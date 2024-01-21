@@ -1,5 +1,5 @@
 # Music-genre-Classification-Random-forest-and-Catboost
-"C:\Users\SHREYA SHANKAR\OneDrive\Desktop\BIT SEM\MP 7th sem\Music Genre Classification_shreya.pdf"
+pdf representation-"C:\Users\SHREYA SHANKAR\OneDrive\Desktop\BIT SEM\MP 7th sem\Music Genre Classification_shreya.pdf"
 This project focuses on developing a robust music genre classification model using ensemble learning techniques, specifically Random Forest and CatBoost algorithms. The goal is to improve the accuracy of music genre classification, with a primary focus on the popular GTZAN Dataset. The project explores various machine learning models, feature engineering techniques, and hyperparameter tuning to achieve optimal results.
 
 Key Features:
